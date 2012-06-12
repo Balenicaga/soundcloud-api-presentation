@@ -4,6 +4,6 @@
 
 Enabling sound creators to share.
 
-Flickr for sound.
+YouTube for audio.
 
 <div class="sc_logo"></div>
