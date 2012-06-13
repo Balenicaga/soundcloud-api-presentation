@@ -1,10 +1,11 @@
 #Endpoints
 
-- Resource-based API, with a lot of subresources
-- /users, /tracks, /playlists, /groups, /comments
-- /me, /me/connections, /me/activities
-- /apps/{id}/tracks - get all tracks uploaded by a published app
+- Resource-based API with subresource options
+- /users, /tracks, /playlists, /groups, /comments, /me, /apps
+- /me/connections - to get your connection data
+- /apps/{id}/tracks - get a published apps tracks
 - Certain endpoints accept filters for search string or property
+- Track property examples: geo-location, bpm, genre
 
 [API Reference](http://developers.soundcloud.com/docs/api/reference)
 
